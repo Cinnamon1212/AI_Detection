@@ -2,10 +2,11 @@
 
 A small python program to demonstrate how AI and haar cascading can be used to identify features across different medium.
 
-Requiresments:
+Requirements:
 * Tensforflow
+* OpenCV
 ```
-pip install opencv-python
+pip install opencv-python && pip install tensorflow
 ```
 
 Recourse links:
